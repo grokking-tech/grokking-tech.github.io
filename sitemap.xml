@@ -72,6 +72,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/tag/nsa/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/tag/netflix/</loc>
   </url>
 
@@ -135,6 +139,18 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/derbycon/5/</loc>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://grokking.tech//conference/derbycon/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/djangocon/europe/2016/</loc>
   </url>
   
@@ -159,10 +175,26 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/hitbsecconf/2016/amsterdam/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/</loc>
   </url>
   
 
+  
+  <url>
+    <loc>https://grokking.tech//conference/owasp-appsec/europe/2014/</loc>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://grokking.tech//conference/saintcon/2015/</loc>
+  </url>
   
 
   
@@ -173,12 +205,26 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/shmoocon/2014/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/srecon/2016/</loc>
   </url>
   
 
   
+  <url>
+    <loc>https://grokking.tech//conference/tetcon/2013/</loc>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://grokking.tech//conference/toorcon/16/</loc>
+  </url>
   
 
 
@@ -199,11 +245,19 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/video/cdpz6ou3/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/video/dplaed47/</loc>
   </url>
 
   <url>
     <loc>https://grokking.tech/video/fp57ia0s/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/video/hojawwyp/</loc>
   </url>
 
   <url>
@@ -239,11 +293,19 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/video/wmo2yzni/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/video/wonjk2gh/</loc>
   </url>
 
   <url>
     <loc>https://grokking.tech/video/x5rjphsg/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/video/xzef2426/</loc>
   </url>
 
 </urlset>
