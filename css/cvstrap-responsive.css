@@ -2,10 +2,6 @@
     .dl-share {
         display: none;
     }
-    
-    .year {
-        text-align: left;
-    }
 }
 
 @media only screen and (max-width: 800px) {
@@ -25,22 +21,17 @@
     h1 {
         margin-top: 20px;
     }
-    .propic {
-        border-radius: 0;
-    }
     .list-unstyled li {
         border-bottom: 1px solid #efefef;
         padding: 15px 0;
     }
-    .firsthr {
-        visibility: hidden;
+    .container > header {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
     }
     .secicon.fa {
         margin: 10px 0;
-    }
-    .year,
-    .mobmid {
-        text-align: center;
     }
 }
 
