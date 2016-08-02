@@ -8,6 +8,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/tag/honeypots/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/tag/malware-analysis/</loc>
   </url>
 
@@ -65,6 +69,14 @@
 
   <url>
     <loc>https://grokking.tech/tag/memory-forensics/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/tag/forensics/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/tag/ctf/</loc>
   </url>
 
   <url>
@@ -211,7 +223,19 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/security-bsides/london/2014/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/security-bsides/london/2015/</loc>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://grokking.tech//conference/security-bsides/london/2016/</loc>
   </url>
   
 
@@ -255,6 +279,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/video/7ov9ucio/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/video/8plc9xyz/</loc>
   </url>
 
@@ -267,7 +295,15 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/video/a88qh4dt/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/video/cdpz6ou3/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/video/cnx8oo85/</loc>
   </url>
 
   <url>
