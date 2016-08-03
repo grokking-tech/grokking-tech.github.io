@@ -12,6 +12,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/tag/ctf/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/tag/malware-analysis/</loc>
   </url>
 
@@ -64,6 +68,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/tag/ctf/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/tag/forensics/</loc>
   </url>
 
@@ -81,6 +89,10 @@
 
   <url>
     <loc>https://grokking.tech/tag/microservices/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/tag/ctf/</loc>
   </url>
 
   <url>
@@ -145,6 +157,12 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/def-con/17/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/def-con/20/</loc>
   </url>
   
@@ -199,6 +217,12 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/gpn/15/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/hitbsecconf/2016/amsterdam/</loc>
   </url>
   
@@ -247,6 +271,12 @@
 
   
   <url>
+    <loc>https://grokking.tech//conference/shmoocon/2013/</loc>
+  </url>
+  
+
+  
+  <url>
     <loc>https://grokking.tech//conference/shmoocon/2014/</loc>
   </url>
   
@@ -276,6 +306,10 @@
 
   <url>
     <loc>https://grokking.tech/video/2waaf19y/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/video/6h9q2rah/</loc>
   </url>
 
   <url>
@@ -355,6 +389,10 @@
   </url>
 
   <url>
+    <loc>https://grokking.tech/video/uhsdc19s/</loc>
+  </url>
+
+  <url>
     <loc>https://grokking.tech/video/uzy8u3ri/</loc>
   </url>
 
@@ -376,6 +414,10 @@
 
   <url>
     <loc>https://grokking.tech/video/xzef2426/</loc>
+  </url>
+
+  <url>
+    <loc>https://grokking.tech/video/zfvn2x3p/</loc>
   </url>
 
 </urlset>
